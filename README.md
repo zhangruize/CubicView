@@ -13,9 +13,9 @@ Step 1. Add the JitPack repository to your build file
 			...
 			maven { url 'https://jitpack.io' }
 		}
-	}Copy
+	}
 Step 2. Add the dependency
 
 	dependencies {
-		compile 'com.github.User:Repo:Tag'
+		compile 'com.github.zhangruize:CubicView:0.1'
 	}
